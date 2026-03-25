@@ -3,11 +3,11 @@ import { Product } from '@/types'
 export const products: Product[] = [
   {
     id: 'mate-calabaza-natural',
-    name: 'Mate Calabaza Natural',
+    name: 'TORPEDOS CUERO CRUDO VIROLA LACRE',
     description: 'Mate artesanal de calabaza natural curada a mano. Tamaño mediano, ideal para el mate diario.',
-    price: 2500,
+    price: 67500,
     category: 'calabaza',
-    image: 'https://picsum.photos/seed/calabaza1/400/400',
+    image: 'https://instagram.fvlg1-1.fna.fbcdn.net/v/t51.82787-15/650925735_18057505664442570_7748942194159824755_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=101&ig_cache_key=Mzg1MDU3NTUxNDkyNzIyNDQwMQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTQ0MC5oZHIuQzMifQ%3D%3D&_nc_ohc=bUIiI3vDCQYQ7kNvwF9UM6J&_nc_oc=Adq6AoCc078KY0NSMOLXJHY-PYrqSkx1vVJhlfXQeKcSU5FuETQOboyar8tFfl9etxc&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fvlg1-1.fna&_nc_gid=IUiMylAQZ9aRAbaWy4_64w&_nc_ss=7a32e&oh=00_AfzE27TAmA_gyC-TphI5YDMDu75QnBhDuMloLJO91jip_A&oe=69CA16E0',
     featured: true,
   },
   {
